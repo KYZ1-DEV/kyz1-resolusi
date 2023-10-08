@@ -4,3 +4,4 @@ Rencara projeck KYZ1
 -Membuat api
 -Membuat App
 -Membuat aplikasi flutter
+-membuat aplikasi callculator
