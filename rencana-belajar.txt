@@ -4,3 +4,4 @@ Pembelajaran kyz1
 - Belajar Php
 - Belajar node js
 - Belajar flutter
+- Belajar java
