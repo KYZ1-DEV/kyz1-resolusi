@@ -3,3 +3,4 @@ Rencara projeck KYZ1
 -membuat website portofolio pribadi
 -Membuat api
 -Membuat App
+-Membuat aplikasi flutter
