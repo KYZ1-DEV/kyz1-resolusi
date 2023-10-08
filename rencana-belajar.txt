@@ -1,0 +1,6 @@
+Pembelajaran kyz1
+- Belajar Javascript
+- Belajar mongodb
+- Belajar Php
+- Belajar node js
+- Belajar flutter
